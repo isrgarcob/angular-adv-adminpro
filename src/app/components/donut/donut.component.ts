@@ -22,9 +22,4 @@ export class DonutComponent {
     ]
   };
 
-  constructor() {
-    console.log(this.doughnutChartLabels);
-    console.log(this.doughnutChartData);
-  }
-
 }
